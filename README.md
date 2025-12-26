@@ -618,7 +618,7 @@ smart-resume-screener/
 
 ## 👨‍💻 Author
 
-**Kora Sai Sukesh**
+**Abhishek B**
 - GitHub: [@abhishekreddy16](https://github.com/abhishekreddy16)
 - Email: abhishek16reddy@gmail.com
 
